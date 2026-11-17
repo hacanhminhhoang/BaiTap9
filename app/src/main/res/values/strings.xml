@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Student MVVM</string>
+    <string name="app_title">Quản lý sinh viên - Room &amp; Retrofit</string>
+    <string name="author_name">Hà Cảnh Minh Hoàng</string>
+    <string name="author_code">MSV: 2415053122219</string>
+    <string name="sync">Đồng bộ</string>
+    <string name="add_student">Thêm sinh viên</string>
+    <string name="delete">Xóa</string>
+    <string name="empty_title">Chưa có sinh viên nào</string>
+    <string name="empty_hint">Bấm nút + để thêm sinh viên</string>
+    <string name="hint_name">Họ và tên</string>
+    <string name="hint_code">Mã sinh viên</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_gpa">GPA</string>
+</resources>
